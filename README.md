@@ -49,7 +49,7 @@ pip install -r requirements.txt
  Uso
 Corre la aplicación localmente:
 
-streamlit run dasboard.py
+streamlit run app.py
 
 Se abrirá automáticamente en http://localhost:8501.
 
