@@ -4,7 +4,7 @@ Dashboard interactivo para visualizar ventas por producto, región y tiempo. Con
 Python Streamlit License
 
  Demo
-Agrega aquí una captura de pantalla o GIF del dashboard funcionando.
+
 <img width="1872" height="985" alt="imagen" src="https://github.com/user-attachments/assets/47162084-7d35-437d-bf49-676695c77014" />
 
 
